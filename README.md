@@ -6,8 +6,8 @@ Anomaly detection in sequential data is a common data analysis task as it contri
 ## Configuration
 - Ubuntu 20.04
 - NVIDIA driver 460.73.01 
-- CUDA 10.2
-- Python 3.7
+- CUDA 11.2
+- Python 3.8
 - PyTorch 1.9.0
 
 ## Citation
