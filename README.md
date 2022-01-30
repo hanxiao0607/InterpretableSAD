@@ -11,3 +11,13 @@ Anomaly detection in sequential data is a common data analysis task as it contri
 - PyTorch 1.9.0
 
 ## Citation
+```
+@inproceedings{han2021interpretablesad,
+  title={InterpretableSAD: Interpretable Anomaly Detection in Sequential Log Data},
+  author={Han, Xiao and Cheng, He and Xu, Depeng and Yuan, Shuhan},
+  booktitle={2021 IEEE International Conference on Big Data (Big Data)},
+  pages={1183--1192},
+  year={2021},
+  organization={IEEE}
+}
+```
